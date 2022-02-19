@@ -31,10 +31,10 @@
                 <p class="mt-2 text-gray-700">
                   GitHub:
                   <a
-                    href="https://github.com/ridwanobafunso"
+                    href="https://github.com/0xridwan"
                     target="_blank"
                     class="text-purple-800 font-bold"
-                    >@ridwanobafunso</a
+                    >@0xridwan</a
                   >
                 </p>
                 <p class="mt-1 text-gray-700">
