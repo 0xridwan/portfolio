@@ -23,7 +23,7 @@
           engineering principles and approaches. I care a lot about clean code,
           architecture, performance, testing and many more. Ridwan is always
           eager to learn new technology stack to improve his knowledge and
-          career. My Resume can be found below. Explore it.
+          career.
         </p>
         <div class="mt-5 mb-8 flex">
           <span class="font-bolder bg-red-500 p-2 rounded-full"></span>
