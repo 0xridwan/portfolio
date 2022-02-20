@@ -18,14 +18,14 @@
             <span class="hidden md:block mt-1">🇳🇬</span>
           </p>
         </h1>
-        <p class="mt-10 leading-relaxed" data-aos="fade-up" data-aos-duration="1000">
+        <p class="leading-relaxed" data-aos="fade-up" data-aos-duration="1000">
           I build software that scale using the industry battle-tested
           engineering principles and approaches. I care a lot about clean code,
           architecture, performance, testing and many more. Ridwan is always
           eager to learn new technology stack to improve his knowledge and
           career.
         </p>
-        <div class="mt-5 mb-8 flex">
+        <div class="mt-10 mb-8 flex">
           <span class="font-bolder bg-red-500 p-2 rounded-full"></span>
           <span class="ml-2 font-bolder bg-green-500 p-2 rounded-full"></span>
           <span class="ml-2 font-bolder bg-yellow-500 p-2 rounded-full"></span>
