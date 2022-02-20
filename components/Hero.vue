@@ -18,7 +18,7 @@
             <span class="hidden md:block mt-1">🇳🇬</span>
           </p>
         </h1>
-        <p class="leading-relaxed" data-aos="fade-up" data-aos-duration="1000">
+        <p class="mt-10 leading-relaxed" data-aos="fade-up" data-aos-duration="1000">
           I build software that scale using the industry battle-tested
           engineering principles and approaches. I care a lot about clean code,
           architecture, performance, testing and many more. Ridwan is always
