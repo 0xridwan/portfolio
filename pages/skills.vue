@@ -16,7 +16,7 @@
           <h3 class="mt-5 text-xl underline">Programming Language(s)</h3>
           <p class="mt-5">
             Programming language(s) have been the tools used for ages by
-            software engineers for creating software or an application.
+            developers for creating software or an application.
           </p>
           <div class="-mx-4 flex flex-wrap">
             <div class="w-full flex flex-col p-4 sm:w-1/2 lg:w-1/3">
