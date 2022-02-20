@@ -14,7 +14,7 @@
           I'm Obafunso Ridwan Adebayo,
           <br class="hidden lg:inline-block" />
           <p class="flex text-2xl">
-            A Software Engineer From Nigeria
+            A Web Developer From Nigeria
             <span class="hidden md:block mt-1">🇳🇬</span>
           </p>
         </h1>
