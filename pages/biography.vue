@@ -16,7 +16,7 @@
           </h1>
           <p class="mt-5">
             <b>Obafunso Ridwan Adebayo</b> (born 19th December) is a Nigerian
-            Software Engineer, Researcher, and Entreprenuer. He is passionate
+            Web Developer, Researcher, and Entreprenuer. He is passionate
             about technology. His passion drives him to start learning
             programming at a very tender age when he was still in high school.
           </p>
